@@ -17,6 +17,7 @@ The project focuses on:
 - Peripheral-level testing
 - Understanding the ATmega2560 architecture
 - Developing firmware practices used in professional embedded systems
+- Devoloping drivers using Bare metal C program
 
 ---
 
